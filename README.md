@@ -1,1 +1,1 @@
-This repository contains C++ code for performing insertion , deletion and other operations on various types of linked list. The code is designed to demostrate the fundamental operations of the linked list data structures.
+This repository contains C++ code for performing insertion , deletion and other operations on various types of linked list. The codes are designed to demostrate the fundamental operations of the linked list data structures.
