@@ -27,7 +27,7 @@ node* print(node* head){
 }
 
 
-//FIXME: We are using hashing , time comp is O() and space comp is O(n)
+//FIXME: We are using hashing , time comp is O(nlogn) and space comp is O(n)
 
 // node* detect_loop(node* head){
 //     map<node*,int>mpp;
