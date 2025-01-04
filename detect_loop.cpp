@@ -33,7 +33,7 @@ node* print(node* head){
 //     map<node*,int>mpp;
 //     node* temp = head;
 //     while(temp!=nullptr){
-//         if(mpp.find(temp)==mpp.end()) {
+//         if(mpp.find(temp)!=mpp.end()) {
 //             cout<<"True";
 //             return head;
 //         }
